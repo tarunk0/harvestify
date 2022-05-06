@@ -8,8 +8,8 @@
   * [Built with](#built-with)
   * [How to use](#how-to-use)
   * [Demo](#demo)
-  * [Bug/Feature Request](#bug---feature-request)
-  * [Future scope of project](#future-scope)
+  * [Bug/Feature Request](#bug-feature-request)
+  * [Future scope of project](#future-scope-of-project)
 
 
 
